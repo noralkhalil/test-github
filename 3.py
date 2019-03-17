@@ -14,4 +14,5 @@ if v1  == 50.0 :
 else:
     print "the summe is =" , v2/v1
 
-print ('Finish')
+print ('okay')
+
